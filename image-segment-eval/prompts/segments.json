@@ -1,0 +1,18 @@
+{
+  "gen_z": {
+    "description": "Generation Z consumers (born 1997-2012) value authenticity, social responsibility, and digital-native experiences. They prefer bold, vibrant visuals, diverse representation, and content that feels genuine and unpolished. They respond well to memes, trends, and values-driven messaging.",
+    "keywords": ["authentic", "vibrant", "diverse", "trendy", "social media", "sustainable", "inclusive"],
+    "style_modifiers": ["vibrant colors", "youthful energy", "authentic lifestyle", "trendy aesthetic", "diverse representation", "social media style"]
+  },
+  "parents": {
+    "description": "Parents (typically ages 30-50) prioritize family, safety, and value. They appreciate warm, trustworthy imagery that emphasizes quality, durability, and family-friendly aspects. They prefer clear, straightforward messaging and visuals that show real-world use cases.",
+    "keywords": ["family-friendly", "trustworthy", "warm", "practical", "safe", "durable", "value"],
+    "style_modifiers": ["warm lighting", "family-friendly atmosphere", "trustworthy aesthetic", "practical setting", "cozy and inviting", "professional quality"]
+  },
+  "professionals": {
+    "description": "Professional consumers (typically ages 25-55) value efficiency, sophistication, and premium quality. They prefer clean, minimalist designs, corporate aesthetics, and imagery that conveys success, reliability, and modern technology.",
+    "keywords": ["sophisticated", "minimalist", "premium", "efficient", "corporate", "modern", "reliable"],
+    "style_modifiers": ["minimalist design", "sophisticated aesthetic", "premium quality", "clean composition", "professional lighting", "corporate style"]
+  }
+}
+
